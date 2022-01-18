@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fenerbahçe</string>
+    <string name="hakkimizda">Fenerbahçe oyuncuları tanıttığımız uygulamamımıza hoşgeldiniz. Oyuncuların biyografisini okumak için ilgili oyuncuya tıklayabilirsiniz.</string>
+    <string name="kapat">Kapat</string>
+    <string name="interneti_ac">İnterneti Aç</string>
+    <string name="internet_yok_baslik">İnternet Bağlantınız Yok</string>
+    <string name="internet_yok_aciklama">Uygulamayı kullanmak için internete bağlayın.</string>
+    <string name="cikis_baslik">Uyarı</string>
+    <string name="cikis_aciklama">Çıkmak istediğinize emin misiniz?</string>
+    <string name="evet">Evet</string>
+    <string name="hayir">Hayır</string>
+    <string name="ozgecmisi">Özgeçmişi</string>
+    <string name="futbolcu">futbolcu</string>
+</resources>
